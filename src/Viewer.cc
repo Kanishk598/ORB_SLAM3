@@ -17,6 +17,7 @@
 */
 
 
+#include <unistd.h>
 #include "Viewer.h"
 #include <pangolin/pangolin.h>
 

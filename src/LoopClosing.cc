@@ -17,6 +17,7 @@
 */
 
 
+#include <unistd.h>
 #include "LoopClosing.h"
 
 #include "Sim3Solver.h"

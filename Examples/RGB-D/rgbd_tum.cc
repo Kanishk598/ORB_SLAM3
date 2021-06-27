@@ -16,6 +16,7 @@
 * If not, see <http://www.gnu.org/licenses/>.
 */
 
+#include <unistd.h>
 #include<iostream>
 #include<algorithm>
 #include<fstream>
